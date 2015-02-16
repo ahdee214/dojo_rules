@@ -3,5 +3,5 @@ Bad Coding Practices:
 * Unused code
 * Functions with side effects
 * Unformatted code
-* Repeated code bloacks
+* Repeated code blocks
 * Bad variable names
